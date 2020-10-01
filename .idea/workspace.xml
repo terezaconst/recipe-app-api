@@ -38,7 +38,7 @@
       <recent name="$PROJECT_DIR$/app" />
     </key>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="false" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -49,7 +49,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601376865685</updated>
-      <workItem from="1601553504647" duration="665000" />
+      <workItem from="1601553504647" duration="742000" />
+      <workItem from="1601564127280" duration="436000" />
     </task>
     <servers />
   </component>
